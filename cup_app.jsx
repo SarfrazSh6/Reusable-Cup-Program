@@ -7,7 +7,7 @@ Here's a full setup for your GitHub Pages React app:
   "name": "cup-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/cup-app",
+  "homepage": "https://SarfrazSh6.github.io/cup-app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -30,7 +30,6 @@ Here's a full setup for your GitHub Pages React app:
 }
 ```
 
-Replace `<your-username>` with your actual GitHub username.
 
 ---
 ### `tailwind.config.js`
