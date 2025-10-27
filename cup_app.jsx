@@ -1,4 +1,4 @@
-Here's a full setup for your GitHub Pages React app:
+
 
 ---
 ### `package.json`
